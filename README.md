@@ -44,14 +44,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
 </span>
 <span>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhd-dm&theme=solarized_dark&utcOffset=8" alt="zhd-dm" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhd-dm&theme=solarized_dark&utcOffset=3" alt="zhd-dm" />
 </span>
 
 <br>
 <span>
     <img src="https://activity-graph.herokuapp.com/graph?username=zhd-dm&theme=vue" alt="zhd-dm" />
 </span>
-
-
-
-
