@@ -7,7 +7,6 @@
 </h1>
 
 <h3 align="center">Angular developer from Russia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhd-dm&label=Profile%20views&color=0e75b6&style=flat" alt="zhd-dm" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -16,6 +15,8 @@
 - 💬 Ask me about **JS, TS, RxJS, Angular**
 
 - 📫 How to reach me **dyo171717@gmail.com / <a href="https://t.me/zhd_dm">Telegram</a>**
+
+- 💼 My resume in russian **<a href="https://drive.google.com/file/d/1IN9NRVo3N4dQKzU4BVh2NbfJ9SxXYNGU/view?usp=sharing">Habr</a>**
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
