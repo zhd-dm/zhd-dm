@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **dyo171717@gmail.com / <a href="https://t.me/zhd_dm">Telegram</a>**
 
-- 💼 My resume in russian **<a href="https://drive.google.com/file/d/1IN9NRVo3N4dQKzU4BVh2NbfJ9SxXYNGU/view?usp=sharing">Habr</a>**
-<p align="left">
+- 💼 My resume: [russian](https://drive.google.com/file/d/1ocBS_aYX1_lfNsVQ_BK0qa7CWp9ySAQe/view); [english](https://www.linkedin.com/in/demyan-zhdanov-9116a8249/)
+<p align="center">
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h5> Click leads to projects 🖱️ </h5>
@@ -40,37 +40,24 @@
     <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://github.com/zhd-dm?tab=repositories&q=angular&type=&language=&sort=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    <a href="https://github.com/zhd-dm?tab=repositories&q=angular&type=&language=&sort=" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-    </a> 
-    <a href="https://github.com/zhd-dm/musicApp/tree/master/app/server" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
-    <a href="https://github.com/zhd-dm/musicApp/tree/master/app/server" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
     <a href="https://github.com/zhd-dm/musicApp/tree/master/app/server" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
 </p>
 
-<h3 align="left">July 2022</h3>
-<a href="https://github.com/zhd-dm/angular-todolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist&theme=solarized-dark&show_icons=true&hide_border=true" />
-</a>
-<h3 align="left">October 2022</h3>
-<a href="https://github.com/zhd-dm/angular-todolist-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist-v2&theme=solarized-dark&show_icons=true&hide_border=true" />
-</a>
+| <h3 align="center">July 2022</h3><a href="https://github.com/zhd-dm/angular-todolist"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist&theme=solarized-dark&show_icons=true&hide_border=true" /></a> | <h3 align="center">October 2022</h3><a href="https://github.com/zhd-dm/angular-todolist-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist-v2&theme=solarized-dark&show_icons=true&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
 <hr>
-<span>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
-</span>
 <span>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
 </span>
@@ -83,8 +70,11 @@
 <span>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhd-dm&theme=solarized_dark&utcOffset=3" alt="zhd-dm" />
 </span>
+<span>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
+</span>
 
 <br>
-<span>
+<!-- <span>
     <img src="https://activity-graph.herokuapp.com/graph?username=zhd-dm&theme=vue" alt="zhd-dm" />
-</span>
+</span> -->
