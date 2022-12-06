@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dyo171717@gmail.com / <a href="https://t.me/zhd_dm">Telegram</a>**
 
-- 💼 My resume: [russian](https://drive.google.com/file/d/1ocBS_aYX1_lfNsVQ_BK0qa7CWp9ySAQe/view); [english](https://www.linkedin.com/in/demyan-zhdanov-9116a8249/)
+- 💼 My resume: [russian](https://drive.google.com/file/d/1JRWh4Ne7V5k_kuxnmwIwZ89cTzIpezIT/view); [english](https://www.linkedin.com/in/demyan-zhdanov-9116a8249/)
 <p align="center">
 </p>
 <h3 align="left">Languages and Tools:</h3>
