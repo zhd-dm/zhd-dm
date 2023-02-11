@@ -55,8 +55,8 @@
     </a> 
 </p>
 
-| <h3 align="center">July 2022</h3><a href="https://github.com/zhd-dm/angular-todolist"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist&theme=solarized-dark&show_icons=true&hide_border=true" /></a> | <h3 align="center">October 2022</h3><a href="https://github.com/zhd-dm/angular-todolist-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist-v2&theme=solarized-dark&show_icons=true&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <h3 align="center">July 2022</h3><a href="https://github.com/zhd-dm/angular-todolist"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist&theme=solarized-dark&show_icons=true&hide_border=true" /></a> | <h3 align="center">October 2022</h3><a href="https://github.com/zhd-dm/angular-todolist-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhd-dm&repo=angular-todolist-v2&theme=solarized-dark&show_icons=true&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 
 
