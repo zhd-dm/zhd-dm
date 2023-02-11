@@ -34,6 +34,9 @@
     </a>
     <a href="https://github.com/zhd-dm?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://github.com/zhd-dm?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
