@@ -8,7 +8,7 @@
 
 <h3 align="center">Angular developer from Russia</h3>
 
-- 🌱 I’m currently working in **T1 Consulting**
+- 🌱 I’m currently working in **Autospot🚗**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zhd-dm)
 
