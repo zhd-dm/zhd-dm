@@ -6,7 +6,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h3 align="center">Angular developer from Russia</h3>
+<h3 align="center"><img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/angular.svg" alt="angular" width="30" height="30" />ngular developer from Russia</h3>
 
 - 🌱 I’m currently working in **Autospot🚗**
 
