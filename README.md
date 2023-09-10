@@ -77,6 +77,13 @@
 <span>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
 </span>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+	</picture>
+</p>
 
 <br>
 <!-- <span>
