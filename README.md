@@ -8,6 +8,13 @@
 
 <h3 align="center"><img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/angular.svg" alt="angular" width="30" height="30" />ngular developer from Russia</h3>
 
+```typescript
+import { Injectable } from '@angular/core';
+
+@Injectable()
+export class ProfileService {}
+```
+
 - 🌱 I’m currently working in **Autospot🚗**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zhd-dm)
