@@ -40,9 +40,6 @@ export class ProfileService {}
     <a href="https://github.com/zhd-dm?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/javascript.svg" alt="javascript" width="40" height="40"/> 
     </a>
-<!--     <a href="https://github.com/zhd-dm?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/python.svg" alt="python" width="40" height="40"/> 
-    </a>  -->
     <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/html5.svg" alt="html5" width="40" height="40"/> 
     </a> 
@@ -54,9 +51,9 @@ export class ProfileService {}
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/figma.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://github.com/zhd-dm/musicApp/tree/master/app/server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/nodejs.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://github.com/zhd-dm/nest-mouser-parser" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/nestjs.svg" alt="nestjs" width="40" height="40"/> 
     </a> 
 </p>
 
