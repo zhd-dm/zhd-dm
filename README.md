@@ -40,18 +40,18 @@ export class ProfileService {}
     <a href="https://github.com/zhd-dm?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/javascript.svg" alt="javascript" width="40" height="40"/> 
     </a>
-    <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
+<!--     <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/html5.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
+    </a>  -->
+<!--     <a href="https://github.com/zhd-dm/test-neoflex" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/css3.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://github.com/zhd-dm?tab=repositories&q=angular&type=&language=&sort=" target="_blank" rel="noreferrer">
+    </a>  -->
+<!--     <a href="https://github.com/zhd-dm?tab=repositories&q=angular&type=&language=&sort=" target="_blank" rel="noreferrer">
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/sass.svg" alt="sass" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    </a>  -->
+<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/figma.svg" alt="figma" width="40" height="40"/> 
-    </a>
+    </a> -->
     <a href="https://github.com/zhd-dm/nest-mouser-parser" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-pictures/nestjs.svg" alt="nestjs" width="40" height="40"/> 
     </a> 
