@@ -15,8 +15,6 @@ import { Injectable } from '@angular/core';
 export class ProfileService {}
 ```
 
-- 🌱 I’m currently working in **Autospot🚗**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zhd-dm)
 
 - 💬 Ask me about **JS, TS, RxJS, Angular**
