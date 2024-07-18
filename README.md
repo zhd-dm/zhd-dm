@@ -62,7 +62,7 @@ export class ProfileService {}
 
 
 <hr>
-<p align="center" >
+<!-- <p align="center" >
 	<span>
 	    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
 	</span>
@@ -75,16 +75,18 @@ export class ProfileService {}
 	<span>
 	    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhd-dm&theme=solarized_dark&utcOffset=3" alt="zhd-dm" />
 	</span>
-</p>
-<p align="center" >
+</p> -->
+
+<!-- <p align="center" > -->
 <!-- 	<span>
 	    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhd-dm&theme=solarized_dark" alt="zhd-dm" />
 	</span> -->
-</p>
-<p align="center" >
+<!-- </p> -->
+
+<!-- <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 	  <img alt="github profile contributions chart"    src="https://github.com/zhd-dm/zhd-dm/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 	</picture>
-</p>
+</p> -->
